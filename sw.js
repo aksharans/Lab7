@@ -8,7 +8,7 @@
 // installation
 var CACHE_NAME = 'journal-cache';
 var URLS_TO_CACHE = [
-    '/Lab7',
+    '/',
     'https://cse110lab6.herokuapp.com/entries',
     'https://drive.google.com',
 ];
